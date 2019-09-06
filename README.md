@@ -1,3 +1,2 @@
 # APA_Project
-Calculator ASDN
-iaca mai
+Calculator ASDN pentru numere binare
