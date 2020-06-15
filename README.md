@@ -1,2 +1,2 @@
-# Analiza și proiectarea algoritmilor Proiect de an
+# Analiza și proiectarea algoritmilor- Proiect de an
 Calculator pentru numere binare
